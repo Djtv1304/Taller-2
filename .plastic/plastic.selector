@@ -1,0 +1,4 @@
+repository "Taller 2 - Programación de un cubo y animación simple en Unity@Djtv1304@cloud"
+  path "/"
+    br "/main"
+    co "/main"
